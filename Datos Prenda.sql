@@ -1,0 +1,30 @@
+INSERT INTO PRENDA 
+VALUES (1, 'Camiseta', 150.00, 1, 1, 1);
+
+INSERT INTO PRENDA 
+VALUES (2, 'Pantalón', 250.00, 2, 2, 2);
+
+INSERT INTO PRENDA 
+VALUES (3, 'Zapatos', 500.00, 3, 3, 3);
+
+INSERT INTO PRENDA 
+VALUES (4, 'Bufanda', 50.00, 4, 4, 4);
+
+INSERT INTO PRENDA 
+VALUES (5, 'Abrigo', 300.00, 5, 5, 5);
+
+INSERT INTO PRENDA 
+VALUES (6, 'Ropa Interior', 50.00, 5, 5, 5);
+
+INSERT INTO PRENDA 
+VALUES (7, 'Blusa',75.00, 6, 1, 6);
+
+INSERT INTO PRENDA 
+VALUES (8, 'Falda',80.00, 7, 2, 7);
+
+INSERT INTO PRENDA 
+VALUES (9, 'Suéter',100.00, 9, 1, 9);
+
+INSERT INTO PRENDA 
+VALUES (10, 'Chaqueta',200.00, 10, 6, 10);
+
