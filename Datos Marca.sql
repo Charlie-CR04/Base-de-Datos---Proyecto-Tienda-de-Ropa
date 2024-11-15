@@ -27,3 +27,33 @@ VALUES (9,'Converse');
 
 INSERT INTO MARCA
 VALUES (10,'Reebook');
+
+INSERT INTO MARCA 
+VALUES (11, 'Forever 21');
+
+INSERT INTO MARCA 
+VALUES (12, 'American Eagle');
+
+INSERT INTO MARCA 
+VALUES (13, 'Old Navy');
+
+INSERT INTO MARCA 
+VALUES (14, 'Aeropostale');
+
+INSERT INTO MARCA 
+VALUES (15, 'Uniqlo');
+
+INSERT INTO MARCA 
+VALUES (16, 'Hollister');
+
+INSERT INTO MARCA 
+VALUES (17, 'Abercrombie & Fitch');
+
+INSERT INTO MARCA 
+VALUES (18, 'Banana Republic');
+
+INSERT INTO MARCA 
+VALUES (19, 'Express');
+
+INSERT INTO MARCA 
+VALUES (20, 'Guess');
