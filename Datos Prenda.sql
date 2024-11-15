@@ -28,3 +28,34 @@ VALUES (9, 'Suéter',100.00, 9, 1, 9);
 INSERT INTO PRENDA 
 VALUES (10, 'Chaqueta',200.00, 10, 6, 10);
 
+INSERT INTO PRENDA 
+VALUES (11, 'Chaleco', 120.00, 10, 4, 16);
+
+INSERT INTO PRENDA 
+VALUES (12, 'Sombrero', 60.00, 4, 5, 18);
+
+INSERT INTO PRENDA 
+VALUES (13, 'Cinturón', 40.00, 4, 3, 13);
+
+INSERT INTO PRENDA 
+VALUES (14, 'Guantes', 35.00, 4, 3, 14);
+
+INSERT INTO PRENDA 
+VALUES (15, 'Calcetines', 20.00, 6, 1, 15);
+
+INSERT INTO PRENDA 
+VALUES (16, 'Tennis', 600.00, 3, 5, 9);
+
+INSERT INTO PRENDA 
+VALUES (17, 'Corbata', 30.00, 4, 2, 3);
+
+INSERT INTO PRENDA 
+VALUES (18, 'Pijama', 80.00, 6, 6, 3);
+
+INSERT INTO PRENDA 
+VALUES (19, 'Vestido', 200.00, 8, 1, 11);
+
+INSERT INTO PRENDA 
+VALUES (20, 'Sandalias', 45.00, 3, 5, 20);
+
+
